@@ -1,5 +1,6 @@
 ---
 title: AJ Hunter
+version: 1
 url: https://aj-hunter.com
 repo: https://github.com/matalina/aj-hunter-com
 terms:

@@ -1,5 +1,6 @@
 ---
 title: AKDDev
+version: 1
 url: https://akddev.net
 repo: https://github.com/matalina/akddev-dot-net
 terms:
